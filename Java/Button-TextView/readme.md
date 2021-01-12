@@ -2,8 +2,5 @@ Käyttäjä käynnistää puhelin sovelluksenssa ensimmäinen teksti on alunperi
 Nappin napputuksen jälkeen ensimmäinen textview muuttuu toiseksi nimeksi.
 
 
-<b> Before </b><br>
-![Alt text](images/Java1.PNG?raw=true "None")
-
-<b> After </b><br>
-![Alt text](images/Java2.PNG?raw=true "None")
+ 
+![Alt text](images/Java1.PNG?raw=true "None") ![Alt text](images/Java2.PNG?raw=true "None")
