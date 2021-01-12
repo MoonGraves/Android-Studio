@@ -6,4 +6,4 @@ Nappin napputuksen jälkeen ensimmäinen textview muuttuu toiseksi nimeksi.
 ![Alt text](images/Java1.PNG?raw=true "None")
 
 <b> After </b><br>
-![Alt text](images/Java.PNG?raw=true "None")
+![Alt text](images/Java2.PNG?raw=true "None")
