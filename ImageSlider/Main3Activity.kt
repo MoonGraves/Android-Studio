@@ -9,8 +9,14 @@ class Main3Activity : AppCompatActivity() {
 
     //Read class file Adapter
     lateinit var adapters: Adapters
+    
+    /* Lisää nämä tonne kansioon kuin:: Gradle Scripts/build.gralde(Module: app) --> dependencies { zxcv }
+        //View Pager
+    implementation "androidx.viewpager2:viewpager2:1.0.0"
+    // Rounded image view
+    implementation 'com.makeramen:roundedimageview:2.3.0'
 
-
+    */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main3)
