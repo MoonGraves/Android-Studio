@@ -7,20 +7,18 @@ Erillisenä tässä on lisätty scrollview, minkä löytyy edellisestä kansion 
 Eli puhelin vaaka, kuin usein pelataan puhelinta ja tms. Sekä sen vaihtelevien, että millä suhteella se oikein on, joko automaattinen tai ei.
 
 <b>409x264</b>
-![Alt text](images/Slider1.PNG?raw=true "None")
-
-![Alt text](images/Slider2.PNG?raw=true "None")
+![Alt text](images/Slider1.PNG?raw=true "None") ![Alt text](images/Slider2.PNG?raw=true "None")
 
 <b>747x215</b>
 ![Alt text](images/Slider7.PNG?raw=true "None")
-
+<br>
 <b>349x391</b>
 ![Alt text](images/Slider3.PNG?raw=true "None")
+<br>
+![Alt text](images/Slider5.PNG?raw=true "None") ![Alt text](images/Slider6.PNG?raw=true "None")
 
-![Alt text](images/Slider5.PNG?raw=true "None")
+<br>
+![Alt text](images/Slider4.PNG?raw=true "None") 
 
-![Alt text](images/Slider6.PNG?raw=true "None")
-
-![Alt text](images/Slider4.PNG?raw=true "None")
-
+<br>
 ![Alt text](images/Slider8.PNG?raw=true "None")
