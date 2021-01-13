@@ -22,9 +22,6 @@ class MainActivity : AppCompatActivity() {
         button.setText("Main2Activity")
 
         //TODO:: Button click open to Main2activity
-        //https://www.youtube.com/watch?v=2ueIhlDj2cs löytyy java ja kotlin
-        //https://www.youtube.com/watch?v=8q-4AJFlraI (Navigation Search Bar Tutorial (Android Studio 2020))
-        //https://www.youtube.com/watch?v=o5pDghyRHmI (Read File From Assets)
         val button = findViewById<Button>(R.id.button)
         button.setOnClickListener{
             val intent = Intent(this, Main2Activity::class.java)
