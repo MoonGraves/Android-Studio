@@ -1,0 +1,62 @@
+Android kotlin tutorials:::
+https://www.youtube.com/watch?v=SXLmr4Qp4OM
+https://www.youtube.com/watch?v=uRyvNKRkwbs
+
+
+Android studio --> Github::::::::::::::::::::
+https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github
+https://www.youtube.com/watch?v=-dAr6VnmomM
+
+
+android kotlin & mysql::::::::::
+https://www.youtube.com/watch?v=vov_rsFWkmM
+https://www.youtube.com/watch?v=VuK0c3esUJE
+
+https://www.youtube.com/playlist?list=PL1c7L5EsigqLO_GSZUU77vfiGtAJ3_uwD
+https://www.youtube.com/watch?v=CzGNaiSoh7E
+
+android kotlin muu:::::::::::
+https://www.youtube.com/watch?v=3aQgSsLkgJo (Implement and use Searchview (suurennuslasi, että etsii hakohteen)
+https://www.youtube.com/watch?v=gb3EOEhudeo (Bottom Navigation Bar) (DONE)
+https://www.youtube.com/watch?v=wUkMG3JGA84 (get location, latitude & longtitude)
+https://www.youtube.com/watch?v=0hkyXuKTFYY (pitkä tutorial, firebase authentication homma)
+https://www.youtube.com/watch?v=3pKqA3YvEaQ (yhden mainactivity:n night mode)
+
+https://www.youtube.com/watch?v=gKPSLWDWuDk (dark mode/night mode)
+https://www.youtube.com/watch?v=vqqZ2h4ktcY (Slot Machine Game)
+https://www.youtube.com/watch?v=z2PDwa7l_ww (sharedprefences /talllenus homma) 
+https://www.youtube.com/watch?v=-F29CMk48RA (android preferences settings)
+https://www.youtube.com/watch?v=ari3iD-3q8c (get current location & lat and longtitude)
+
+https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/#7
+https://abhiandroid.com/ui/scrollview
+https://www.youtube.com/watch?v=f4n0VlDzocM (scrollview)
+https://www.youtube.com/watch?v=mvlCKRpKVZs (image slider)
+https://www.geeksforgeeks.org/radiogroup-in-kotlin/?ref=leftbar-rightbar
+
+https://www.youtube.com/watch?v=5wbeWN4hQt0 (Creating camera intent)
+
+https://www.youtube.com/watch?v=29GzdSR56Zw <<<<<<<<<<<<<<<<<<<<<<<
+https://www.youtube.com/watch?v=hQP9zSBj0tM
+https://www.youtube.com/watch?v=-vAI7RSPxOA
+
+read qr code::::::::::
+https://www.youtube.com/results?search_query=android+studio+kotlin+read+barcode+backage
+https://www.youtube.com/watch?v=w7ynZKcBEK0
+https://www.youtube.com/watch?v=NqFVqLqbw_g
+https://www.youtube.com/results?search_query=android+kotlin+loader+animation
+
+https://johncodeos.com/how-to-create-a-custom-navigation-drawer-in-android-using-kotlin/
+https://johncodeos.com/how-to-create-tabs-in-android-using-kotlin/
+
+
+Android dev tutorials:::::::::::
+https://www.youtube.com/c/AndroidDevsYT/playlists
+
+splash screen::::::::::::
+https://www.youtube.com/watch?v=WZWr0Abomfw (studio kirjasto logon kaut)
+https://www.youtube.com/watch?v=T9NJUw5cUyo (oma tietokonen kuvien kaut)
+
+Kotlin firebase projekti homma, sitä ehk voisi aloittaa?
+https://www.youtube.com/watch?v=0hkyXuKTFYY
+
